@@ -5,8 +5,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://download.meizu.com/Firmware/Flyme/16s/8.20.11.10/cn_daily/20201110003048/9e816b1b/update.zip
-  ROM_NAME: Flyme
+  ROM_URL: https://mva2.androidfilehost.com/dl/JLwshj8B8hmpHxOEnAap9A/1606583376/10763459528675591912/xiaomi.eu_multi_HMK20ProMI9TPro_20.11.25_v12-10.zip?
+  ROM_NAME: MIUI
   TZ: Asia/Kolkata
   MIR: wet
   ZIP_NAME: Flyme-8
