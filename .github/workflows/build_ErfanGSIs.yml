@@ -9,7 +9,7 @@ env:
   ROM_NAME: MIUI
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: Flyme-8
+  ZIP_NAME: MIUI-12
 jobs:
   build:
     runs-on: ubuntu-latest
